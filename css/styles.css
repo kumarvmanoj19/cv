@@ -1,0 +1,46 @@
+
+h1{
+  margin: 0;
+  font-family: Sacramento, sans-serif;
+  font-size: 60px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, sans-serif;
+  background-color: #e0ebe8;
+}
+img{
+  height:100%;
+  width:100%;
+}
+p{
+  width:500px;
+  margin:0 auto 0 auto;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+
+span{
+  display: block;
+}
+
+.top-container{
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+.middle-container{
+}
+.bottom-container{
+}
+
+.developer{
+  width: 300px;
+  height: 300px;
+}
+
+.profile img{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
